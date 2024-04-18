@@ -68,6 +68,7 @@
 	padding: 60px;
 	margin-bottom: 50px;
 	text-align: center;
+	margin: 0 2%;
 	
 }
 .work_img img{
@@ -127,5 +128,6 @@
 	}
 	.work_img{
 		padding: 20px;
+	margin: 0 2%;
 	}
 }

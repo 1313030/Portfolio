@@ -476,3 +476,7 @@ html,body{
 	cursor: url("../images/cursor.png"),auto;
 }*/
 
+
+.qrImage img{
+	width: 100px;
+}
